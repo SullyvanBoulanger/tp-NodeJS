@@ -1,0 +1,19 @@
+{
+  "name": "tp-nodejs",
+  "version": "1.0.0",
+  "description": "TP pour la Formation NodeJS Diginimaic",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.2",
+    "sqlite3": "^5.1.7"
+  }
+}
